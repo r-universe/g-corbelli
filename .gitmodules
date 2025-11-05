@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "lavinteract"]
+	path = lavinteract
+	url = https://github.com/g-corbelli/lavinteract
 [submodule "persval"]
 	path = persval
 	url = https://github.com/g-corbelli/persval
