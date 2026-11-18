@@ -11,3 +11,6 @@
 [submodule "reflectR"]
 	path = reflectR
 	url = https://github.com/g-corbelli/reflectr
+[submodule "statioVAR"]
+	path = statioVAR
+	url = https://github.com/cran/statioVAR
